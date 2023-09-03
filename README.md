@@ -54,10 +54,6 @@ We welcome contributions from the community! If you'd like to contribute to Book
 3. Make your changes and commit them.
 4. Submit a pull request with a clear description of your changes.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ### Contact
 
 If you have any questions, suggestions, or issues, feel free to contact us:
